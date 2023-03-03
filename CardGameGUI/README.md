@@ -11,3 +11,5 @@ This project contains the source files to that should run a Card Game with a gra
 <p align="left">
     To run this project, you will need an IDE such as Eclipse and create a new Java Project, setting the location to this project's location on your device. Once the project is created, navigate to CardGameGUI/src/client/ GameManager.java file which contains the main method and then run the program.
 </p>
+<br>
+<img src="./images/demo.gif" width="600" height="300" />
